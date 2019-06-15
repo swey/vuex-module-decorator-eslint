@@ -1,0 +1,29 @@
+{
+  "name": "eslint-plugin-vuex-module-decorators",
+  "version": "0.1.0",
+  "description": "ESLint rules for vuex stores made with vuex-module-decorator\n",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Sebastian Weyrauch",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "peerDependencies": {
+    "eslint": "^5.0.0"
+  },
+  "dependencies": {
+    "requireindex": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.11.1",
+    "mocha": "^5.2.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT"
+}
