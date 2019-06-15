@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-vuex-module-decorators",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint rules for vuex stores made with vuex-module-decorator\n",
   "keywords": [
     "eslint",
